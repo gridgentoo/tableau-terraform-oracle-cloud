@@ -1,3 +1,6 @@
+(tableau-terraform-oracle-cloud) deploy Tableau on Oracle Cloud Infrastructure  
+https://docs.google.com/spreadsheets/d/1RbTIA_83ZvYVCA9q7ybimA5zBD6a6jJ3Q5nRlpHB2WI/  
+
 # oci-tableau
 These are Terraform modules that deploy [Tableau](https://www.tableau.com/) on [Oracle Cloud Infrastructure (OCI)](https://cloud.oracle.com/en_US/cloud-infrastructure).  They are developed jointly by Oracle and Tableau.
 
